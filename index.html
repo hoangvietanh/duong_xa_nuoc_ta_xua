@@ -110,6 +110,12 @@ main{min-width:0;padding:0 24px 120px}
 .content figure:has(img.icon) figcaption{margin:0;text-align:left}
 .content figcaption{font:13px var(--sans);color:var(--muted);margin-top:6px}
 
+.plate{display:grid;grid-template-columns:1fr 1fr;gap:20px;margin:1.6em -40px 1.8em}
+.plate figure{margin:0;background:var(--card);border:1px solid var(--line);border-radius:14px;padding:12px;box-shadow:var(--shadow)}
+.plate img{margin:0 auto;border-radius:6px;box-shadow:none;width:100%;transition:transform .2s}
+.plate a:hover img{transform:scale(1.01)}
+.plate figcaption{text-align:left;font:13px/1.5 var(--sans);color:var(--ink-2);margin-top:10px}
+@media (max-width:980px){.plate{grid-template-columns:1fr;margin:1.4em 0}}
 /* page sections in the book */
 #book h2[id^="ts-trang-pdf"]{display:flex;align-items:baseline;gap:12px;padding-top:1.2em;border-top:1px solid var(--line)}
 #book h2[id^="ts-trang-pdf"] .tag{flex:0 0 auto;font:600 12px var(--sans);color:#fff;background:var(--red);border-radius:999px;padding:3px 10px;letter-spacing:.04em;transform:translateY(-3px)}
@@ -590,6 +596,13 @@ footer a{color:var(--red)}
 <p>“Bìa vàng cũ nguyên là bìa của một hồ-sơ tòa-án ĐẠI HÌNH THỰC-DÂN xử các nhà cách mạng Việt-nam ở Hà-nội. […] Tôi đã mua ở lề đường Hà-nội (chợ hàng Da) rất nhiều hồ-sơ loại này, kể cả hồ sơ tất cả các nhân vật Việt Nam Quốc dân đảng bị xử tử ở Yên-Bái. Sau khi quân Pháp trở lại Hà-nội, tôi đã giấu các hồ sơ ấy trên mái nhà số 69 phố Tràng-thi. Không biết sau có ai lấy đi không?”</p>
 </blockquote>
 <p>Rồi ông nói rõ lý do giữ cái bìa: để làm chứng cho một thời đại. Ngay từ trang đầu, cuốn sổ về đường sá xưa đã mang theo dấu vết của một giai đoạn lịch sử khác, giai đoạn của chính người viết.</p>
+<div class="plate">
+  <figure><a href="img/trang001.jpg" target="_blank" rel="noopener"><img loading="lazy" src="img/trang001.jpg" alt="Trang PDF 1: bìa ngoài bản thảo, ba chữ Hán viết thảo bằng bút lông"></a>
+    <figcaption><b>Trang 1</b> - Bìa ngoài: ba chữ Hán viết thảo bằng bút lông; góc trên ghi số hiệu ARC. HOANG. 109.</figcaption></figure>
+  <figure><a href="img/trang007.jpg" target="_blank" rel="noopener"><img loading="lazy" src="img/trang007.jpg" alt="Trang PDF 7: lời ghi viết tay của Hoàng Xuân Hãn, Paris 3/3/1973"></a>
+    <figcaption><b>Trang 7</b> - Lời ghi của Hoàng Xuân Hãn, Paris ngày 3/3/1973, có ấn son tàng thư; giấy viết là mặt sau giấy tiêu đề Verrerie du Nord.</figcaption></figure>
+</div>
+
 <h2 id="gt-hình-thức-bản-thảo">Hình thức bản thảo</h2>
 <ul>
 <li><strong>Khổ và số tờ:</strong> 187 tờ, khổ 216 x 145 mm. Bản số hóa có 383 trang ảnh, tính cả bìa và các tờ lót.</li>
