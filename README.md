@@ -10,6 +10,7 @@ Bản thảo là sổ khảo cứu các sách lộ trình chữ Hán đời Lê 
 
 | File | Nội dung |
 |---|---|
+| [index.html](index.html) | Trang web đọc trực tuyến (GitHub Pages): gộp phần giới thiệu và toàn văn, có mục lục, tìm kiếm, giao diện sáng/tối |
 | [gioithieu.md](gioithieu.md) | Bài đề dẫn giới thiệu sách (có bản `.docx`) |
 | [Duong_sa_nuoc_ta_xua_ARC_HOANG_109_v1.1.md](Duong_sa_nuoc_ta_xua_ARC_HOANG_109_v1.1.md) | Bản chép đầy đủ 383 trang PDF (có bản `.docx`) |
 | [Duong_sa_nuoc_ta_xua_ARC_HOANG_109_v1.0.md](Duong_sa_nuoc_ta_xua_ARC_HOANG_109_v1.0.md) | Bản thử trang 1-16 (giữ lại để đối chiếu) |
