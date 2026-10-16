@@ -11,8 +11,8 @@ Bản thảo là sổ khảo cứu các sách lộ trình chữ Hán đời Lê 
 | File | Nội dung |
 |---|---|
 | [index.html](index.html) | Trang web đọc trực tuyến (GitHub Pages): gộp phần giới thiệu và toàn văn, có mục lục, tìm kiếm, giao diện sáng/tối |
-| [gioithieu_v1.1.md](gioithieu_v1.1.md) | Bài đề dẫn giới thiệu sách, bản mới nhất (có bản `.docx`); `gioithieu.md` là bản đầu |
-| [Duong_sa_nuoc_ta_xua_ARC_HOANG_109_v1.1.md](Duong_sa_nuoc_ta_xua_ARC_HOANG_109_v1.1.md) | Bản chép đầy đủ 383 trang PDF (có bản `.docx`) |
+| [gioithieu_v1.2.md](gioithieu_v1.2.md) | Bài đề dẫn giới thiệu sách, bản mới nhất (có bản `.docx`); các bản cũ giữ lại để đối chiếu |
+| [Duong_sa_nuoc_ta_xua_ARC_HOANG_109_v1.2.md](Duong_sa_nuoc_ta_xua_ARC_HOANG_109_v1.2.md) | Bản chép đầy đủ 383 trang PDF, bản mới nhất (có bản `.docx`); v1.1 giữ lại |
 | [Duong_sa_nuoc_ta_xua_ARC_HOANG_109_v1.0.md](Duong_sa_nuoc_ta_xua_ARC_HOANG_109_v1.0.md) | Bản thử trang 1-16 (giữ lại để đối chiếu) |
 | `img/` | Hình cắt từ ảnh gốc: bìa, ấn son, ký hiệu thuyền đánh dấu đường thủy... |
 
@@ -29,5 +29,6 @@ Chữ quốc ngữ và con số đọc khá chắc. Chữ Hán và chữ Nôm vi
 
 ## Nguồn và giấy phép
 
-- Bản gốc: Hoàng Xuân Hãn, *Đường xá nước ta xưa*, bản thảo, BULAC ARC.HOANG.109. Bản số hóa: <https://archive.org/details/ARC.HOANG.109> (CC BY-NC 4.0).
+- Bản gốc: Hoàng Xuân Hãn, *Đường xá nước ta xưa*, bản thảo, BULAC ARC.HOANG.109.
+- Bản scan: [Thư viện số BULAC (BiNA)](https://bina.bulac.fr/s/bina/ark:/73193/bnkb7b) · [Internet Archive](https://archive.org/details/ARC.HOANG.109) (CC BY-NC 4.0).
 - Bản chép, chú thích và bài giới thiệu trong kho này được phát hành theo cùng giấy phép **CC BY-NC 4.0**: được dùng lại, chỉnh sửa nếu ghi nguồn, không dùng vào mục đích thương mại. Xem [LICENSE](LICENSE).
