@@ -11,8 +11,8 @@ Bản thảo là sổ khảo cứu các sách lộ trình chữ Hán đời Lê 
 | File | Nội dung |
 |---|---|
 | [index.html](index.html) | Trang web đọc trực tuyến (GitHub Pages): gộp phần giới thiệu và toàn văn, có mục lục, tìm kiếm, giao diện sáng/tối |
-| [gioithieu_v1.2.md](gioithieu_v1.2.md) | Bài đề dẫn giới thiệu sách, bản mới nhất (có bản `.docx`); các bản cũ giữ lại để đối chiếu |
-| [Duong_sa_nuoc_ta_xua_ARC_HOANG_109_v1.2.md](Duong_sa_nuoc_ta_xua_ARC_HOANG_109_v1.2.md) | Bản chép đầy đủ 383 trang PDF, bản mới nhất (có bản `.docx`); v1.1 giữ lại |
+| [gioithieu_v1.3.md](gioithieu_v1.3.md) | Bài đề dẫn giới thiệu sách, bản mới nhất (có bản `.docx`); các bản cũ giữ lại để đối chiếu |
+| [Duong_sa_nuoc_ta_xua_ARC_HOANG_109_v1.3.md](Duong_sa_nuoc_ta_xua_ARC_HOANG_109_v1.3.md) | Bản chép đầy đủ 383 trang PDF, bản mới nhất (có bản `.docx`); các bản cũ giữ lại |
 | [Duong_sa_nuoc_ta_xua_ARC_HOANG_109_v1.0.md](Duong_sa_nuoc_ta_xua_ARC_HOANG_109_v1.0.md) | Bản thử trang 1-16 (giữ lại để đối chiếu) |
 | `img/` | Hình cắt từ ảnh gốc: bìa, ấn son, ký hiệu thuyền đánh dấu đường thủy... |
 
@@ -21,7 +21,7 @@ Bản thảo là sổ khảo cứu các sách lộ trình chữ Hán đời Lê 
 - Mỗi mục "Trang PDF N" ứng với một trang trong bản số hóa.
 - Chữ Hán: *phiên âm Hán Việt* (漢字); câu và thơ chữ Hán có thêm **Dịch:**.
 - Chữ Nôm: quốc ngữ kèm chữ Nôm trong ngoặc; chữ không có trong Unicode ghi theo cấu tạo, ví dụ [石+多].
-- `[?]` = đọc chưa chắc; `[...]` = chưa đọc được; `[ND: ...]` = ghi chú của người chép.
+- `[?]` = đọc chưa chắc; `[...]` = chưa đọc được; `[NC: ...]` = ghi chú của người chép.
 
 ## Mức độ tin cậy
 
